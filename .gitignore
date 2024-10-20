@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/src/TvMaze.API/Data/shows.db
+/src/TvMaze.API/Data/shows.db-shm
+/src/TvMaze.API/Data/shows.db-wal
